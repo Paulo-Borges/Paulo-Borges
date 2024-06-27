@@ -15,4 +15,7 @@
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Borges)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Apaixonado por tecnologia, estudando muito para sempre estar atualizado com os códigos. 
