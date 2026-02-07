@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devborges50@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit)](https://x.com/paulobo17118573)
 
-![Borges Github stats](https://github-readme-stats.vercel.app/api?username=paulo-borges&show_icons=true&theme=radical)
+![Borges Github stats](https://github-readme-stats.vercel.app/api?username=paulo-borges&show_icons=true&theme=radical&cache_seconds=1800)
 
 
 
